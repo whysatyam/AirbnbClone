@@ -11,10 +11,6 @@ A fully functional Airbnb clone built using ReactJS, designed to showcase dynami
 - **Image Uploads**: Allows users to upload images for each rental property.
 - **Price Settings**: Users can set and adjust prices for their rental listings.
 
-## Getting Started
-
-To get a local copy up and running, follow these steps:
-
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed on your machine.
