@@ -17,4 +17,4 @@ A fully functional Airbnb clone built using ReactJS, designed to showcase dynami
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/airbnb-clone.git
+git clone https://github.com/whysatyam/AirbnbClone
